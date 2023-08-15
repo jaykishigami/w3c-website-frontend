@@ -2,11 +2,11 @@ blog:
     comments:
         form:
             name:
-                blank: __blog.comments.form.name.blank
+                blank: 名前
             email:
-                blank: __blog.comments.form.email.blank
-                format: __blog.comments.form.email.format
+                blank: email
+                format: 正しいアドレスを入れてください
             comment:
-                blank: __blog.comments.form.comment.blank
+                blank: コメント
             post:
-                blank: __blog.comments.form.post.blank
+                blank: コメントを入れてください
